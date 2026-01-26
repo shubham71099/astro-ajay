@@ -10,6 +10,10 @@ export default function Testimonials() {
       text: "I was facing marriage issues for years. After consultation, things improved within months.",
       name: "Rohit Chauhan",
     },
+        {
+      text: "Ajay's guidance on business astrology was spot on. My business has seen significant growth.",
+      name: "Savlibhai Dholakiya",
+    },
     {
       text: "Very humble and knowledgeable astrologer. His remedies really worked for me.",
       name: "Amit Verma",
@@ -26,7 +30,7 @@ export default function Testimonials() {
 
     const interval = setInterval(() => {
       setIndex((prev) => (prev + 1) % testimonials.length);
-    }, 2000);
+    }, 2500);
 
     return () => clearInterval(interval);
   }, [paused, testimonials.length]);
@@ -95,7 +99,7 @@ export default function Testimonials() {
 
         {/* Google Reviews Label */}
         <p className="mt-4 text-sm text-gray-600">
-          ⭐ Rated 5.0 based on Google Reviews
+          ⭐ Rated 4.9 based on Google Reviews
         </p>
       </div>
     </section>
