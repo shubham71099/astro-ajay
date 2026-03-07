@@ -117,9 +117,8 @@ export default function Hero() {
       ))}
 
       {/* Gradient Overlays */}
-      {/* Gradient Overlays */}
-      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a1a]/90 via-black/70 to-[#0a0a1a]/90" />
-      <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a1a]/50 via-transparent to-[#0a0a1a]/50" />
+      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a1a]/60 via-black/20 to-[#0a0a1a]/60" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a1a]/30 via-transparent to-[#0a0a1a]/30" />
 
       {/* Particles */}
       <Particles />
