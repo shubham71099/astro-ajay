@@ -10,8 +10,8 @@ export default function Contact() {
       className="relative py-20 md:py-28 overflow-hidden scroll-mt-16"
     >
       {/* Gradient Background */}
-      <div className="absolute inset-0 bg-gradient-to-br from-saffron-800/90 via-orange-700/90 to-saffron-900/90" />
-      <div className="absolute inset-0 cosmic-bg opacity-40" />
+      <div className="absolute inset-0 cosmic-bg opacity-100" />
+      <div className="absolute inset-0 bg-gradient-to-b from-cosmic-900 via-transparent to-cosmic-900" />
 
       {/* Decorative Elements */}
       <div className="absolute inset-0 pointer-events-none overflow-hidden">
