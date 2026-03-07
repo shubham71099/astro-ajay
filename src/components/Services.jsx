@@ -56,7 +56,7 @@ export default function Services() {
             data-aos-delay="100"
             className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold"
           >
-            <span className="text-cosmic-900">Our </span>
+            <span className="text-white">Our </span>
             <span className="text-gradient">Services</span>
           </h2>
         </div>

@@ -41,7 +41,7 @@ export default function About() {
             data-aos-delay="100"
             className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold mb-5"
           >
-            <span className="text-cosmic-900">About </span>
+            <span className="text-white">About </span>
             <span className="text-gradient">Astro Ajay</span>
           </h2>
 

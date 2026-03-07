@@ -79,7 +79,7 @@ export default function FreeKundli() {
             data-aos-delay="100"
             className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold"
           >
-            <span className="text-cosmic-900">Free </span>
+            <span className="text-white">Free </span>
             <span className="text-gradient">Kundli</span>
           </h2>
           <p

@@ -66,7 +66,7 @@ export default function Testimonials() {
             data-aos-delay="100"
             className="text-3xl sm:text-4xl md:text-5xl font-heading font-bold"
           >
-            <span className="text-cosmic-900">What </span>
+            <span className="text-white">What </span>
             <span className="text-gradient">Clients Say</span>
           </h2>
         </div>
