@@ -117,8 +117,9 @@ export default function Hero() {
       ))}
 
       {/* Gradient Overlays */}
-      <div className="absolute inset-0 bg-gradient-to-b from-cosmic-900/90 via-black/70 to-cosmic-900/90" />
-      <div className="absolute inset-0 bg-gradient-to-r from-cosmic-900/50 via-transparent to-cosmic-900/50" />
+      {/* Gradient Overlays */}
+      <div className="absolute inset-0 bg-gradient-to-b from-[#0a0a1a]/90 via-black/70 to-[#0a0a1a]/90" />
+      <div className="absolute inset-0 bg-gradient-to-r from-[#0a0a1a]/50 via-transparent to-[#0a0a1a]/50" />
 
       {/* Particles */}
       <Particles />
@@ -172,7 +173,7 @@ export default function Hero() {
         >
           <a
             href="#contact"
-            className="w-full sm:w-auto px-8 py-4 rounded-full font-semibold text-cosmic-900 btn-cosmic bg-gradient-to-r from-saffron-400 to-orange-500 shadow-lg shadow-saffron-500/20 hover:scale-105 flex items-center justify-center gap-2"
+            className="w-full sm:w-auto px-8 py-4 rounded-full font-semibold text-white btn-cosmic bg-gradient-to-r from-saffron-500 to-orange-600 shadow-lg shadow-orange-500/20 hover:scale-105 flex items-center justify-center gap-2"
           >
             Book Consultation ✦
           </a>
