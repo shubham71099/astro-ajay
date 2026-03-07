@@ -160,8 +160,8 @@ export default function Hero() {
           data-aos-delay="200"
           className="text-lg sm:text-xl md:text-2xl mb-8 h-9 font-light"
         >
-          <span className="text-cosmic-800">{displayText}</span>
-          <span className="text-cosmic-600 animate-pulse font-thin">|</span>
+          <span className="text-gray-200">{displayText}</span>
+          <span className="text-gray-400 animate-pulse font-thin">|</span>
         </div>
 
         {/* Buttons */}
