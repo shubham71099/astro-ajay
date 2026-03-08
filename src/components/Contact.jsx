@@ -72,7 +72,7 @@ export default function Contact() {
           </div>
           <div className="flex items-center gap-3 px-5 py-3 rounded-xl bg-white/10 backdrop-blur-sm border border-white/10 text-white">
             <FaEnvelope className="text-saffron-300" />
-            <span className="text-sm">contact@astroajay.com</span>
+            <span className="text-sm">ajaynareshparmar@gmail.com</span>
           </div>
         </div>
       </div>
