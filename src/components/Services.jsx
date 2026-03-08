@@ -65,7 +65,7 @@ export default function Services() {
         <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
           {services.map((service, i) => (
             <a
-              href={`https://wa.me/919999999999?text=Hi Astrologer Ajay, I would like to know more about your ${service.text} service.`}
+              href={`https://wa.me/919251170521?text=Hi Astrologer Ajay, I would like to know more about your ${service.text} service.`}
               target="_blank"
               rel="noopener noreferrer"
               key={i}
